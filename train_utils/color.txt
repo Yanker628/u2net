@@ -1,0 +1,3 @@
+# train data
+R_mean: 0.474129, G_mean: 0.493722, B_mean: 0.504780
+R_std: 0.162058, G_std: 0.153185, B_std: 0.152286
